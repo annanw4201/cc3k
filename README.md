@@ -1,5 +1,5 @@
 # A project for CS246--CC3K
-ChamberCrawler3000 (CC3k), is a Rogue-like game (a genre of video game based upon the game Rogue - http://en.wikipedia.org/wiki/Rogue_(video_game))
+ChamberCrawler3000 (CC3k), is a Rogue-like game
 
 # Commands
 * no, so, ea, we, ne, nw, se, sw (can use WASD if enable WASD feature): moves the player in the specified direction
